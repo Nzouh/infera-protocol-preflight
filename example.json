@@ -1,0 +1,1 @@
+{"run_id":"flow-17","available_instruments":["cytometer-a"],"inventory":{"buffer_ml":4},"steps":[{"id":"stain","instrument":"bench","consumes":{"buffer_ml":5}},{"id":"read","instrument":"cytometer-a","temperature_c":24,"instrument_max_c":30}]}

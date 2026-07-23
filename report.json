@@ -1,0 +1,15 @@
+{
+  "run_id": "flow-17",
+  "status": "review",
+  "issues": [
+    {
+      "step": "stain",
+      "code": "instrument_unavailable"
+    },
+    {
+      "step": "stain",
+      "code": "inventory_shortfall",
+      "reagent": "buffer_ml"
+    }
+  ]
+}
